@@ -29,6 +29,8 @@ end
 
 iphone = Telefon.new("iPhone", "iOS", 128)
 
+//deneme bir iki
+
 iphone.isim
 puts iphone.isim
 iphone.isim ="Samsung"
